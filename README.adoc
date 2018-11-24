@@ -1,0 +1,13 @@
+= Glosa Basic Reference
+:author: Marcos Cruz (programandala.net)
+:revdate: 2018-11-24
+
+Goal of this project:
+
+Convert the book _Glosa Basic Reference_, by Wendy Ashby and Ronald
+Clark (1994, 1996), into http://asciidoctor.org[Asciidoctor] format,
+out of the HTML version made by Paul O. Bartlet and Marcel Springer
+(1996-2002), which is available in http://glosa.org, in order to
+create en EPUB e-book and other formats.
+
+Author's website: http://programandala.net
