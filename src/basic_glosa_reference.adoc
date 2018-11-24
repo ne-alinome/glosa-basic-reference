@@ -1,74 +1,67 @@
-                                             
-                                  GLOSA BASIC REFERENCE
+= Glosa Basic Reference (e-book draft {revdate})
+:revdate: 2018-11-24
+:toc:
+:toc-levels: 3
 
-                    COPYRIGHT 1994, 1996 Glosa Education Organization;
-          Version: 1996/05/14 (Prepared for the Web by Paul O. Bartlett, 1996);
-               Compiled by P. O. Bartlett; edited by W. Ashby and R. Clark.
-                     Some HTML-supplement by M. Springer, 1999, 2001.
-                                Last modified 2002/04/25.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+== Credits
 
-Contents
+- Copyright 1994, 1996 Glosa Education Organization. Version:
+  1996/05/14.
+- Prepared for the Web by Paul O. Bartlett, 1996.
+- Compiled by P. O. Bartlett; edited by W. Ashby and R. Clark.
+- Some HTML-supplement by M. Springer, 1999, 2001. Last modified 2002/04/25.
+- E-book version by Marcos Cruz (programandala.net), 2018.
 
-  • [1]Glosa Education Organizaton
-  • [2]Glosa characteristics
-  • [3]Some rules
-  • [4]Glosa Mechanics (sample statements)
-  • [5]Further examples
-  • [6]Vocabulary Glosa-English: [7]a [8]b [9]c [10]d [11]e [12]f [13]g [14]h [15]i [16]j 
-    [17]k [18]l [19]m [20]n [21]o [22]p [23]q [24]r [25]s [26]t [27]u [28]v [29]w [30]x 
-    [31]y [32]z
-  • [33]Vocabulary English-Glosa: [34]a [35]b [36]c [37]d [38]e [39]f [40]g [41]h [42]i 
-    [43]j [44]k [45]l [46]m [47]n [48]o [49]p [50]q [51]r [52]s [53]t [54]u [55]v [56]w 
-    [57]x [58]y [59]z
-  • [60]Function words: [61]Generics, [62]Pronouns, [63]Link Words, [64]Associatives, [65]
-    Numbers, [66]Articles, [67]Questions, [68]Negatives, [69]Tenses, [70]Modals, [71]
-    Verboids, [72]Comparison, [73]When, [74]Where, [75]Colors, [76]Greetings
+== Glosa Education Organizaton
 
-
+....
 Glosa Education Organizaton
+35 Wingfield Road
+Kingston Upon Thames
+Surrey KT2 5LR
+ENGLAND
+registered charity number 298237
+....
 
-    Glosa Education Organizaton
-    35 Wingfield Road
-    Kingston Upon Thames
-    Surrey KT2 5LR
-    ENGLAND
-    registered charity number 298237
-
-"Glosa Education Organizaton promotes the teaching of Glosa as a second language in
+____
+Glosa Education Organizaton promotes the teaching of Glosa as a second language in
 schools world-wide. It also emphasizes that besides being an efficient means of
-international communication, Glosa offers advantages to general education."
+international communication, Glosa offers advantages to general education.
+____
 
+== Glosa characteristics
 
-Glosa characteristics
-
-GLOSA is an artificial language intended for use among people with different native,
+Glosa is an artificial language intended for use among people with different native,
 cultural, or national languages. It is an auxiliary language and has no purpose of
 supplanting or replacing any other languages. Its purpose is only to be a common means of
 communication for people of different languages.
 
 Glosa has several distinguishing characteristics:
 
- 1. Its structure is very simple and based on semantics. It is an analytical language with
-    no inflexions, genders, or diacritical marks. Glosa does have ways of forming plurals,
-    tenses, questions, etc., similar to Chinese and Malay, which use a word for each idea
-    -- these languages have no inflections. A small number of words handle grammatical
-    relationships not otherwise provided for. Many Glosa words can serve as more than one
-    part of speech as meaning and common sense allow.
- 2. Glosa words are based on Latin and Greek roots common to the chief Euro-languages; via
-    science, technology, and medicine, these words are penetrating all languages. Although
-    a larger vocabulary is available, a base vocabulary of between 1000 and 2000 words
-    handles most situations.
- 3. Its pronunciation is simple and regular, and its spelling is phonetic.
- 4. Above all, Glosa is neutral. Because it is no one's own language, it is available to
-    everyone without jealousy or resentment over the dominance of any one or a few
-    national languages. Its use of Latin and Greek roots, many of which are already in
-    widespread use, gives it internationality.
+1. Its structure is very simple and based on semantics. It is an
+   analytical language with no inflexions, genders, or diacritical
+   marks. Glosa does have ways of forming plurals, tenses, questions,
+   etc., similar to Chinese and Malay, which use a word for each idea
+   -- these languages have no inflections. A small number of words
+   handle grammatical relationships not otherwise provided for. Many
+   Glosa words can serve as more than one part of speech as meaning
+   and common sense allow.
+2. Glosa words are based on Latin and Greek roots common to the chief
+   Euro-languages; via science, technology, and medicine, these words
+   are penetrating all languages. Although a larger vocabulary is
+   available, a base vocabulary of between 1000 and 2000 words handles
+   most situations.
+3. Its pronunciation is simple and regular, and its spelling is
+   phonetic.
+4. Above all, Glosa is neutral. Because it is no one's own language,
+   it is available to everyone without jealousy or resentment over the
+   dominance of any one or a few national languages. Its use of Latin
+   and Greek roots, many of which are already in widespread use, gives
+   it internationality.
 
+== Some rules
 
-Some rules
-
-Alphabet, spelling, pronounciation
+=== Alphabet, spelling, pronounciation
 
 Written Glosa uses the unaccented 26-letter Latin alphabet.
 
@@ -91,7 +84,6 @@ Pronounce consonants as in English except:
 
 Place stress gently on the vowel before the last consonant.
 
-
 Punctuation:
 
 Colon precedes items of a list;
@@ -100,8 +92,7 @@ Semicolon separates principal and subordinate clauses; a clause is a group of wo
 containing a finite verb.
 Hyphen joins words closely associated semantically.
 
-
-Word order
+=== Word order
 
 for accurate, easy, and quick understanding should be:
 
@@ -109,8 +100,7 @@ Subject (with accompanying adjectival and modifying cluster), Negative if requir
 Verb, Main Verb, Indirect Object, and Direct Object. This order is preserved in
 Subordinate Clauses.
 
-
-Nouns, names, idioms, help
+=== Nouns, names, idioms, help
 
 "U(n)" and "plu" serve primarily as nouns markers when the sense is not otherwise clear.
 They are not necessary (but are permissible) after a preposition.
@@ -121,8 +111,7 @@ Do not translate idioms literally word for word; express in clear, unidiomatic G
 
 FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMENT.
 
-
-Glosa Mechanics (sample statements)
+== Glosa Mechanics (sample statements)
 
         u feli                     A cat, the cat
         plu feli; poli feli        Cats; many cats
@@ -192,9 +181,7 @@ Glosa Mechanics (sample statements)
         medika-an                  male medical doctor
         France-lingua              French (language)
 
-
-
-Further examples
+== Further examples
 
     Hullo!  Please!  Thank you!             Ave!  Place!  Gratia!
     Congratulations!  Goodbye!              Gratula!  Vale!
@@ -278,12 +265,7 @@ Further examples
     Careful!  Dont fall!                    Kura!  Ne kade!
     Mother-in-law.  Aunt.                   Andro-matri/Gina-matri.  Parenta sorori.
 
-
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Vocabulary Glosa-English
+== Vocabulary Glosa-English
 
 The word lists below are not further maintained. Please prefer the lists of [77]GID for
 the words.
@@ -412,8 +394,6 @@ avena        oats
 avi          bird
 axi          axis, axle
 
-
-
 B
 
 babi         baby
@@ -494,8 +474,6 @@ butiri       butter
 butona       button
 buz          buzz
 
-
-
 C
 
 carta        map, chart
@@ -533,8 +511,6 @@ civiliza     civilize
 civita       city
 co           the-just-said
 cokolata     chocolate
-
-
 
 D
 
@@ -613,8 +589,6 @@ dura         hard, lasting
 dura feru    steel
 duranto      while, during
 
-
-
 E
 
 e            and
@@ -675,8 +649,6 @@ extende      extend, spread
 extra        outside
 extra fiska  customs
 extracto     extract
-
-
 
 F
 
@@ -791,8 +763,6 @@ fusili       gun
 fusio        fusion
 futuri       future
 
-
-
 G
 
 gaia         living earth
@@ -860,8 +830,6 @@ gumi         rubber
 gusta        taste
 guta         drop (of liquid)
 
-
-
 H
 
 habe         have, possess
@@ -901,8 +869,6 @@ horti        garden
 hospi        guest
 hospita      entertain
 humidi       humid, moist
-
-
 
 I
 
@@ -948,8 +914,6 @@ iso...de     as...as
 itera        again
 itinera      travel
 
-
-
 J
 
 ja           yes
@@ -966,8 +930,6 @@ jura         swear oath
 jurnala      newspaper
 justi        just, fair
 juve         young
-
-
 
 K
 
@@ -1186,8 +1148,6 @@ kura         care, administer
 kurva        curve
 kuspi        point, cusp
 
-
-
 L
 
 la           there
@@ -1279,8 +1239,6 @@ lumi         light
 luna         moon
 lupus        wolf
 lustra       polish
-
-
 
 M
 
@@ -1398,8 +1356,6 @@ muskula      muscle
 muta         change
 mutua        mutual
 
-
-
 N
 
 na           we, us, our
@@ -1455,8 +1411,6 @@ nuli         nothing, not at all
 numera       number, count
 nuta         nod
 
-
-
 O
 
 obe          obey
@@ -1501,8 +1455,6 @@ ova          egg
 ovali        oval
 ovis         sheep, ovine
 oxidi        oxidise, rust
-
-
 
 P
 
@@ -1683,8 +1635,6 @@ puta         think
 puta-me      computer
 pute         well (water)
 
-
-
 Q
 
 qadra        square
@@ -1708,8 +1658,6 @@ qo-ra        what thing?
 qo-te        why? / what intent?
 qod          which, that which
 qu           whether
-
-
 
 R
 
@@ -1777,8 +1725,6 @@ rudi         rubbish
 ruga         wrinkle
 rugo         rough
 rura         countryside
-
-
 
 S
 
@@ -1967,8 +1913,6 @@ sura         sure, assure
 surge        rise
 susura       rustle, whisper
 
-
-
 T
 
 ta           so very
@@ -2055,8 +1999,6 @@ turba        disturb
 turisti      tourist
 tusi         cough
 
-
-
 U
 
 u bi         a pair
@@ -2090,8 +2032,6 @@ urba         town
 urina        urinate
 uteru        womb
 uti          use
-
-
 
 V
 
@@ -2179,13 +2119,9 @@ vulne        wound
 vulpe        fox
 vultura      vultura
 
-
-
 W
 
 wiski        whisky
-
-
 
 X
 
@@ -2193,12 +2129,7 @@ xanto        yellow
 xeno         strange, foreign
 xilo         wood, xylum
 
-
-
 Y
-
-
-
 
 Z
 
@@ -2215,11 +2146,7 @@ zo (-zo)     ring
 zoa          animal
 zona         ring, zone
 
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Vocabulary English-Glosa
+== Vocabulary English-Glosa
 
 When doing a computer search on English words, search all instances; also search on first
 part of Glosa words for similar occurrences.
@@ -2340,8 +2267,6 @@ awake                    vigi
 away, sent               ab
 axe, hatchet             peleki
 axis, axle               axi
-
-
 
 B
 
@@ -2480,8 +2405,6 @@ button                   butona
 buy                      merka
 buzz                     buz
 by means of, with        per
-
-
 
 C
 
@@ -2651,8 +2574,6 @@ customs                  extra fiska
 cut                      seka
 cylinder                 kilindri
 
-
-
 D
 
 dance                    kore
@@ -2726,8 +2647,6 @@ drunk                    narko
 dry                      sika
 duck                     anas
 
-
-
 E
 
 each                     singu
@@ -2790,8 +2709,6 @@ extract                  extracto
 eye, peep                oku
 eyebrow                  supracilia
 eyelash                  cilia
-
-
 
 F
 
@@ -2886,8 +2803,6 @@ fungus                   fungu, miko, fungus
 fusion                   fusio
 future                   futuri
 
-
-
 G
 
 garden                   horti
@@ -2929,8 +2844,6 @@ guess                    divina
 guest                    hospi
 guilty                   etio
 gun                      fusili
-
-
 
 H
 
@@ -3006,8 +2919,6 @@ hundred                  centi
 hungry                   famina
 husk, bran, chaff        gluma
 
-
-
 I
 
 I, me, my                mi
@@ -3047,8 +2958,6 @@ island                   insula
 it                       id
 it is, i.e.              id es
 
-
-
 J
 
 jam                      konfekti
@@ -3064,8 +2973,6 @@ jump, leap               salta
 just about to            nu-fu
 just, fair               justi
 
-
-
 K
 
 kangaroo                 makropus
@@ -3078,8 +2985,6 @@ kiss                     osku, oskula
 knee, kneel              genu
 knife                    kultela
 know, knowledge          ski
-
-
 
 L
 
@@ -3146,8 +3051,6 @@ love, like               amo
 lucky                    boni-fortuna
 lump                     amorfo
 lung                     pulmona
-
-
 
 M
 
@@ -3230,8 +3133,6 @@ must                     nece
 mutual                   mutua
 mystery                  misteri
 
-
-
 N
 
 nail, hoof               ungua
@@ -3270,8 +3171,6 @@ nucleus                  nuklea
 number, count            numera
 nut                      nuki
 nut (tool)               oklu
-
-
 
 O
 
@@ -3319,8 +3218,6 @@ overlap                  imbrika
 own (to)                 proprie
 ox, cow/cattle           bovi
 oxidise, rust            oxidi
-
-
 
 P
 
@@ -3422,8 +3319,6 @@ push, pulsate            pulsa
 puzzle                   enigma
 pyramid                  pirami
 
-
-
 Q
 
 quality                  qalita
@@ -3433,8 +3328,6 @@ quarter                  qarto
 queen                    fe-regi
 question                 qestio
 question (?)             qe
-
-
 
 R
 
@@ -3512,8 +3405,6 @@ run away                 fugi
 rush, dash, fly          peti
 rustle, whisper          krepita, susura
 rye                      sekali
-
-
 
 S
 
@@ -3736,8 +3627,6 @@ symbol                   simboli
 sympathy                 simpati
 syringe                  siringi
 
-
-
 T
 
 table                    tabla
@@ -3839,8 +3728,6 @@ twist                    strepto
 two                      bi
 type, print              tipo
 
-
-
 U
 
 umbrella                 pluvi-skuta
@@ -3859,8 +3746,6 @@ urinate                  urina
 use                      uti
 used to                  pa more
 useful                   funktio
-
-
 
 V
 
@@ -3905,8 +3790,6 @@ vote                     vota
 vowel                    vokali
 vulgar                   vulga
 vulture                  vultura
-
-
 
 W
 
@@ -4012,13 +3895,9 @@ write                    grafo, skribe
 wrong                    mis
 wrong, deceive, fraud    falsi
 
-
-
 X
 
 X-ray                    X-radia
-
-
 
 Y
 
@@ -4035,8 +3914,6 @@ you, your (plural)       vi
 you, your (singular)     tu
 young                    juve
 
-
-
 Z
 
 zebra                    zebra
@@ -4046,15 +3923,9 @@ zigzag                   zigazaga
 zinc                     zinko
 zone                     zona, -zo
 
+== Function words
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-Function words
-
-
-Generics
+=== Generics
 
 -bo           shop (BOteka)
 -bo-pe        shopkeeper
@@ -4075,9 +3946,7 @@ Generics
 -ve           garment (VEsti)
 -zo           ring (ZOna)
 
-
-
-Pronouns
+=== Pronouns
 
 I, me, my          mi
 you, your          tu [singular]
@@ -4092,9 +3961,7 @@ oneself            se
 self, own          auto
 each other         alelo
 
-
-
-Link Words
+=== Link Words
 
 the just-said     -co
 accordingly       akorda-co
@@ -4118,9 +3985,7 @@ summing up        suma-co
 therefore         ka-co
 to that extent    metri-co
 
-
-
-Associatives
+=== Associatives
 
 about             de
 in addition to    plus
@@ -4150,9 +4015,7 @@ useful            funktio
 with, present     sin; ko
 without, lack     minus
 
-
-
-Numbers
+=== Numbers
 
 0                 ze; zero
 1                 mo
@@ -4192,9 +4055,7 @@ June 8            di ok, meno six
 Monday            di bi
 date              datu
 
-
-
-Articles
+=== Articles
 
 a, the            u
 more than one     plu
@@ -4215,9 +4076,7 @@ a kind of         speci
 the whole of      holo
 which?            qo?
 
-
-
-Questions
+=== Questions
 
 yes/no questions  Qe... ?
 What/Which?       Qo?
@@ -4235,9 +4094,7 @@ When?             Qo-horo?; Qo-di?
 N.B. Question words which are the
 Object come after the verb.
 
-
-
-Negatives
+=== Negatives
 
 not               ne
 not until         ne pre
@@ -4246,9 +4103,7 @@ nothing           nuli; zero
 not at all        nuli; zero
 neither...nor     ni...ni
 
-
-
-Tenses
+=== Tenses
 
 now               nu
 past, -ed, did    pa
@@ -4258,9 +4113,7 @@ have just         nu pa
 was going to      pa fu
 shall have        fu pa
 
-
-
-Modals
+=== Modals
 
 about to          prepara
 usually           more
@@ -4279,9 +4132,7 @@ try to            tenta
 used to           pa more
 want to           volu
 
-
-
-Verboids
+=== Verboids
 
 be, is, am, are   es
 act, do           akti
@@ -4306,9 +4157,7 @@ see               vide
 stimulate         sti
 throw             bali
 
-
-
-Comparison
+=== Comparison
 
 identical         iso
 like              homo
@@ -4319,9 +4168,7 @@ most, -est        maxi
 least             mini
 very              fo-
 
-
-
-When
+=== When
 
 after             po
 before            pre
@@ -4338,9 +4185,7 @@ during            tem; duranto
 instant           kron
 year              anua
 
-
-
-Where
+=== Where
 
 across            trans
 around            peri
@@ -4376,9 +4221,7 @@ under             infra; hipo
 up                ana
 west              ocide
 
-
-
-Colors
+=== Colors
 
 beige             leuko-bruno
 black             melano
@@ -4399,9 +4242,7 @@ red               rubi
 white             leuko
 yellow            xanto
 
-
-
-Greetings
+=== Greetings
 
 good day; hello   boni di
 good morning      boni mana
@@ -4440,5 +4281,3 @@ isn't it?         qe?
 really?           qe, veri?
 yours sincerely   a tu sinceri
 by the way        para dice
-
-
