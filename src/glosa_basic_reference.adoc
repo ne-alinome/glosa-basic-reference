@@ -1,9 +1,10 @@
 = Glosa Basic Reference (e-book draft {revdate})
+:author: Glosa Education Organization
 :revdate: 2018-11-24
 :toc:
 :toc-levels: 3
 
-// Last modified 201811241659
+// Last modified 201812151421
 
 // This document is in Asciidoctor format
 // See http://asciidoctor.org
@@ -44,18 +45,17 @@ ENGLAND
 registered charity number 298237
 ....
 
-____
 Glosa Education Organizaton promotes the teaching of Glosa as a second language in
 schools world-wide. It also emphasizes that besides being an efficient means of
 international communication, Glosa offers advantages to general education.
-____
 
 == Glosa characteristics
 
-Glosa is an artificial language intended for use among people with different native,
-cultural, or national languages. It is an auxiliary language and has no purpose of
-supplanting or replacing any other languages. Its purpose is only to be a common means of
-communication for people of different languages.
+Glosa is an artificial language intended for use among people with
+different native, cultural, or national languages. It is an auxiliary
+language and has no purpose of supplanting or replacing any other
+languages. Its purpose is only to be a common means of communication
+for people of different languages.
 
 Glosa has several distinguishing characteristics:
 
@@ -105,13 +105,14 @@ Pronounce consonants as in English except:
 
 Place stress gently on the vowel before the last consonant.
 
-Punctuation:
+=== Punctuation
 
-Colon precedes items of a list;
-Comma separates list items from each other; it also occurs after a vocative expression.
-Semicolon separates principal and subordinate clauses; a clause is a group of words
-containing a finite verb.
-Hyphen joins words closely associated semantically.
+- Colon precedes items of a list.
+- Comma separates list items from each other; it also occurs after a
+  vocative expression.
+- Semicolon separates principal and subordinate clauses; a clause is a
+  group of words containing a finite verb.
+- Hyphen joins words closely associated semantically.
 
 === Word order
 
@@ -938,7 +939,7 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 | involve       | wrap up
 | iride         | rainbow
 | iso           | identical
-| iso...de      | as...as
+| iso ... de    | as ... as
 | itera         | again
 | itinera       | travel
 |===
@@ -1280,7 +1281,7 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 |===
 | ma            | more, -er
 | ma (-ma)      | stuff, matter
-| ma...de       | more...than
+| ma ... de     | more ... than
 | magika        | magic
 | magneti       | magnetism
 | magnetofono   | recorder
@@ -1315,7 +1316,7 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 | mediu         | medium
 | mega          | big, much, a lot
 | mei           | less
-| mei...de      | less...than
+| mei ... de    | less ... than
 | mekani        | device
 | mekina        | device, mechanism
 | melano        | black
@@ -1773,6 +1774,8 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 
 === S
 
+// XXX FIXME -- 'would ... if' ?
+
 |===
 | Sa.           | Ms., Miss, Mrs.
 | sadi          | cruel
@@ -1840,7 +1843,7 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 | sinior        | mister
 | siniora       | madam, missus
 | siniorina     | miss
-| sio           | would...if
+| sio           | would ... if
 | sipa          | waste
 | siringi       | syringe
 | sistema       | tidy, system
@@ -2304,7 +2307,7 @@ part of Glosa words for similar occurrences.
 | artist                    | artisti
 | as (while)                | tem
 | as (because)              | ka
-| as...as                   | iso...de
+| as ... as                 | iso ... de
 | ashamed                   | este etio
 | ashes                     | cinera
 | ask onself                | qestio se
@@ -3091,7 +3094,7 @@ part of Glosa words for similar occurrences.
 | lend                      | tem dona
 | lens                      | lenti
 | less                      | mei
-| less...than               | mei...de
+| less ... than             | mei ... de
 | let, permit               | lase, lice, permite
 | letter (a,b,c), spell     | litera
 | letter, telegram          | grama
@@ -3192,7 +3195,7 @@ part of Glosa words for similar occurrences.
 | moral                     | morali
 | more (number)             | plei
 | more, -er                 | ma
-| more...than               | ma...de
+| more ... than             | ma ... de
 | moreover                  | plus-co
 | morning                   | mana, matina
 | moss                      | brio, muski
@@ -3985,7 +3988,7 @@ part of Glosa words for similar occurrences.
 | world-wide                | holo munda
 | worm                      | vermi
 | worship                   | latri
-| would...if                | sio
+| would ... if                | sio
 | wound                     | vulne
 | wrap up                   | involve
 | wrestle                   | lukta
@@ -4212,7 +4215,7 @@ part of Glosa words for similar occurrences.
 |===
 
 N.B. Question words which are the
-Object come after the verb.
+Object come after the Verb.
 
 === Negatives
 
@@ -4222,7 +4225,7 @@ Object come after the verb.
 | opposites          | no-
 | nothing            | nuli; zero
 | not at all         | nuli; zero
-| neither...nor      | ni...ni
+| neither ... nor    | ni ... ni
 |===
 
 === Tenses
@@ -4268,7 +4271,7 @@ Object come after the verb.
 | get, receive       | gene
 | give               | dona
 | got                | pa gene
-| got...en           | ge-
+| got ... en         | ge-
 | have               | habe
 | hear               | audi; akusti
 | keep               | tena
@@ -4290,9 +4293,9 @@ Object come after the verb.
 |===
 | identical          | iso
 | like               | homo
-| as...as            | iso...de
-| more...than        | ma...de
-| less...than        | mei...de
+| as ... as          | iso ... de
+| more ... than      | ma ... de
+| less ... than      | mei ... de
 | most, -est         | maxi
 | least              | mini
 | very               | fo-
@@ -4318,6 +4321,8 @@ Object come after the verb.
 |===
 
 === Where
+
+// XXX FIXME -- 'a' -> 'a(d)'; 'a; ad' -> a(d)
 
 |===
 | across             | trans
@@ -4407,7 +4412,7 @@ Object come after the verb.
 | what a surprise    | komo mira
 | well               | bene
 | please             | place
-| thank you for...   | gratia de ...
+| thank you for ...  | gratia de ...
 | no; yes            | no; ja
 | sorry; excuse me   | penite; pardo
 | quite alright      | no-gravi
