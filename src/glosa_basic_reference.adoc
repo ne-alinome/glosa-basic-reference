@@ -1,10 +1,10 @@
-= Glosa Basic Reference (e-book draft {revdate})
+= Glosa Basic Reference
 :author: Glosa Education Organization
-:revdate: 2018-11-24
+:docdate: 2019-03-06
 :toc:
 :toc-levels: 3
 
-// Last modified 201812151421
+// Last modified 201903062039
 
 // This document is in Asciidoctor format
 // See http://asciidoctor.org
@@ -18,17 +18,23 @@
 - Prepared for the Web by Paul O. Bartlett, 1996.
 - Compiled by P. O. Bartlett; edited by W. Ashby and R. Clark.
 - Some HTML-supplement by M. Springer, 1999, 2001. Last modified
-  2002/04/25.
-- Asciidoctor version by Marcos Cruz (programandala.net), 2018.
+  2002/04/25. Available in http://glosa.org[glosa.org].
+- Asciidoctor conversion and e-book project by Marcos Cruz
+  (programandala.net), 2018-11, last modified {docdate}. Available in
+  http://ne.alinome.net[ne.alinome.net].
 
 // =============================================================
 // Variables 
 
-// Text used in two footnotes:
+// Texts used in notes:
 
 :old_vocabulary: The word lists below are not further maintained. \
 Please prefer the lists of http://glosa.org/gid/index.html[Glosa \
-Internet Directory] for the words.
+Internet Directory] for the words. (Note added to the HTML edition.)
+
+:word_search: When doing a computer search on English words, search \
+all instances; also search on first part of Glosa words for similar \
+occurrences. (Note added to the HTML edition).
 
 // =============================================================
 // The original contents start here
@@ -280,7 +286,14 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 | Mother-in-law.  Aunt.                       | Andro-matri/Gina-matri.  Parenta sorori.
 |===
 
-== Vocabulary Glosa-Englishfootnoteref:[old_vocabulary,{old_vocabulary}]
+// XXX TODO -- Its/It's? Both are possible in this case:
+
+// | Its breaking.  Got broken.  Broken.
+// | Id frakti.  Pa gene frakti.  Ge-frakti.
+
+== Vocabulary Glosa-English
+
+NOTE: {old_vocabulary}
 
 === A
 
@@ -2206,10 +2219,9 @@ FOR MORE INFORMATION, CONTACT 'GLOSA' AT THE ADDRESS AT THE HEAD OF THIS DOCUMEN
 | zona          | ring, zone
 |===
 
-== Vocabulary English-Glosafootnoteref:[old_vocabulary]
+== Vocabulary English-Glosa
 
-When doing a computer search on English words, search all instances; also search on first
-part of Glosa words for similar occurrences.
+NOTE: {word_search}
 
 === A
 
